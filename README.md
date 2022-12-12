@@ -1,2 +1,2 @@
 # SpeakEnglishBot
-From Sariq Dev lesssons
+From Sariq Dev lessons
